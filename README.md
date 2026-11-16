@@ -1,13 +1,12 @@
-# Hi, I'm Tammy 👋
+somewhere between curious and stubborn, which is how things get built.
 
-I make things that I'd actually use.
+### [omaglimpse](https://github.com/TammyX44/OmaGlimpse)
+a glimpse of your system, without opening a terminal.
 
-### [OmaGlimpse](https://github.com/TammyX44/OmaGlimpse)
+<img src="assets/next-plugin.png" alt="" width="56" align="left">
 
-A glimpse of your system, without opening a terminal.
+**something new is coming soon.**<br>look both ways.
 
-Something new is coming soon.
+<br clear="left">
 
-<img src="assets/next-plugin.png" alt="Coming soon" width="96">
-
-If something here helps you, a ⭐ is always welcome.
+if something here helps you, a ⭐ is always welcome.
